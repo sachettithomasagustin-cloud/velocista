@@ -154,7 +154,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -194,7 +194,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/e63b40c4-e8e3-4ad9-af17-55e1d24bb03f")
 		(sheetname "/")
-		(sheetfile "2Seguidor Linea.kicad_sch")
+		(sheetfile "Velocista.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.47066 2.49936)
@@ -483,7 +483,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -510,7 +510,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/0a3e803f-6468-4239-a028-4f11dbcf6160")
 		(sheetname "/")
-		(sheetfile "2Seguidor Linea.kicad_sch")
+		(sheetfile "Velocista.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.37 -1.37)
@@ -813,7 +813,7 @@
 		)
 		(path "/a0e6fc95-1927-4df1-ae23-54089ba239e2")
 		(sheetname "/")
-		(sheetfile "2Seguidor Linea.kicad_sch")
+		(sheetfile "Velocista.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 8.89 -10.16)
@@ -1230,7 +1230,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1259,7 +1259,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/1b2489f5-fbb3-4f10-b995-3ae37943a474")
 		(sheetname "/")
-		(sheetfile "2Seguidor Linea.kicad_sch")
+		(sheetfile "Velocista.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.01 2.71)
@@ -1538,7 +1538,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1565,7 +1565,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/8ecd4d6a-656d-41c0-b535-3db010562407")
 		(sheetname "/")
-		(sheetfile "2Seguidor Linea.kicad_sch")
+		(sheetfile "Velocista.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.37 -1.37)
@@ -1730,7 +1730,7 @@
 		(property ki_fp_filters "Cable*")
 		(path "/fba2940a-f545-46c1-b486-8832e44591bf")
 		(sheetname "/")
-		(sheetfile "2Seguidor Linea.kicad_sch")
+		(sheetfile "Velocista.kicad_sch")
 		(attr through_hole)
 		(fp_rect
 			(start -2.9 -4.3)
@@ -2267,7 +2267,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2295,7 +2295,7 @@
 		)
 		(path "/69c040cf-aff0-4d1b-a33d-ba63391b9ac9")
 		(sheetname "/")
-		(sheetfile "2Seguidor Linea.kicad_sch")
+		(sheetfile "Velocista.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.35 -1.85)
@@ -2631,7 +2631,7 @@
 		(property ki_fp_filters "ESP32*")
 		(path "/3edae6c6-9158-440e-a8ce-ff1cede7f886")
 		(sheetname "/")
-		(sheetfile "2Seguidor Linea.kicad_sch")
+		(sheetfile "Velocista.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 24.13 12.7)
@@ -3276,7 +3276,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3316,7 +3316,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/f92c7ad7-0e18-4da1-ae85-177f65e9b48d")
 		(sheetname "/")
-		(sheetfile "2Seguidor Linea.kicad_sch")
+		(sheetfile "Velocista.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.47066 2.49936)
@@ -3497,7 +3497,7 @@
 		(property ki_fp_filters "Cable*")
 		(path "/11dc7143-8070-4bdd-b75f-65e7fcb8161e")
 		(sheetname "/")
-		(sheetfile "2Seguidor Linea.kicad_sch")
+		(sheetfile "Velocista.kicad_sch")
 		(attr through_hole)
 		(fp_rect
 			(start -2.9 -4.3)
@@ -3599,7 +3599,7 @@
 		)
 		(path "/1f48381d-b0d5-4c1e-9718-1e6b398c1d4f")
 		(sheetname "/")
-		(sheetfile "2Seguidor Linea.kicad_sch")
+		(sheetfile "Velocista.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -8.75 -5.54)
@@ -4117,7 +4117,7 @@
 		(property ki_fp_filters "SW* LLAVE*")
 		(path "/fc79e022-8cb3-4b02-9b56-d3b2b5455281")
 		(sheetname "/")
-		(sheetfile "2Seguidor Linea.kicad_sch")
+		(sheetfile "Velocista.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 4.3 -2.15)
@@ -4428,7 +4428,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -4457,7 +4457,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/d332380f-3cb2-4507-95ea-5e71319e0027")
 		(sheetname "/")
-		(sheetfile "2Seguidor Linea.kicad_sch")
+		(sheetfile "Velocista.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 0.735)
@@ -4632,7 +4632,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -4661,7 +4661,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/71fd0e6d-d338-45f5-bd09-9ba5893504a2")
 		(sheetname "/")
-		(sheetfile "2Seguidor Linea.kicad_sch")
+		(sheetfile "Velocista.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -4837,7 +4837,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -4866,7 +4866,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/0c6ca8ae-2c84-4ff9-b8e5-9b18e85a23ba")
 		(sheetname "/")
-		(sheetfile "2Seguidor Linea.kicad_sch")
+		(sheetfile "Velocista.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 27.61 6.81)
